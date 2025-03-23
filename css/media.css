@@ -1,0 +1,44 @@
+@media only screen and (max-width:600px){
+    .heading{ 
+        padding: 3px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .heading p {
+        font-size: 15px;
+    }
+    #start {
+        font-size: 13px;
+    }
+    #start:hover {
+        background-color: rgb(81, 194, 172);
+    font-size: 15px;
+    }
+    .container {
+        max-width: 350px;
+        margin: 40px auto;
+    }
+    .container .btn {
+        height: 150px;
+        width: 100px;
+    }
+}
+
+@media only screen and (min-width:601px) and (max-width:1000px){
+
+    #start {
+        font-size: 19px;
+    }
+    #start:hover {
+        background-color: rgb(81, 194, 172);
+    font-size: 21px;
+    }
+
+    .container {
+        width: 450px;
+        margin: 40px auto;
+        align-items: center;
+    }
+    
+}

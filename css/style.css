@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.heading {
+    text-align: center;
+    padding: 3px;
+    line-height: 2;
+}
+
+.heading h2 {
+    margin-top: 10px;
+    color: rgb(62, 111, 224);
+    font-size: 40px;
+    font-family: monospace;
+}
+
+p {
+    font-size: 25px;
+    color: rgb(174, 82, 16);
+}
+/* #start{
+    display: none;
+} */
+button {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: rgb(63, 230, 12);
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: rgb(81, 194, 172);
+    border: 3px solid white;
+    font-size: 22px;
+}
+
+.container {
+    width: 500px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 0.5px solid plum;
+}
+
+.container .btn {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    flex-basis: 46%;
+    cursor: pointer;
+    margin: 2%;
+}
+
+.purple {
+    background-color: purple;
+}
+.aqua {
+    background-color: aqua;
+}
+.chartreuse {
+    background-color: chartreuse;
+}
+.crimson {
+    background-color: crimson;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
+
