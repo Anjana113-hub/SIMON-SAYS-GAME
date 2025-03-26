@@ -38,7 +38,7 @@ The project consists of the following files:
 👋 Hi there! I'm Anjana Karmakar, as a passoniate front-end web developer.
 
 ## Authors
-[@siniekoo19](https://github.com/siniekoo19)
+[@Anjana](https://github.com/Anjana113-hub)
 
 ## Acknowledgments
 - Thanks to [githubs pages](https://anjana113-hub.github.io/SIMON-SAYS-GAME/) for providing a platform to deploy my website.
