@@ -1,9 +1,6 @@
 # Simon Says Game
 Welcome to the Simon Says Game! This project is a simple implementation of the classic memory game using HTML, CSS, and JavaScript.
 
-## Play the Game 💜💛💙❤
-You can play the game [here](https://anjana113-hub.github.io/SIMON-SAYS-GAME/).
-
 ## How to Play 🎮
   1. *Start the Game:*
      - To start the game, press start button.
